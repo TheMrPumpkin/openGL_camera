@@ -5,4 +5,12 @@
 this project use errorReporting for debugging
 and stb_image use to read PNG and JPG
 
-[[Watch the video on YouTube](https://img.youtube.com/vi/6jBpHih6YqA/0.jpg)](https://youtu.be/6jBpHih6YqA)
+the camera
+https://github.com/user-attachments/assets/e0206d02-24a4-45ae-b1b8-68f3c8333000
+
+
+
+
+
+
+
